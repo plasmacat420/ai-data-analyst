@@ -2,7 +2,7 @@ from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
-    OPENAI_API_KEY: str = ""
+    XAI_API_KEY: str = ""
     UPLOAD_DIR: str = "./uploads"
     MAX_ROWS_IN_CONTEXT: int = 50
     MAX_RESULT_ROWS: int = 500

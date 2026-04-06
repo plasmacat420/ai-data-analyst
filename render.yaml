@@ -6,7 +6,7 @@ services:
     buildCommand: pip install -e "."
     startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
     envVars:
-      - key: OPENAI_API_KEY
+      - key: XAI_API_KEY
         sync: false
       - key: CORS_ORIGINS
         value: '["https://plasmacat420.github.io"]'

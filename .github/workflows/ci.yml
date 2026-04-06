@@ -62,7 +62,7 @@ jobs:
       - name: Run tests
         working-directory: backend
         env:
-          OPENAI_API_KEY: sk-test-key
+          XAI_API_KEY: xai-test-key
         run: pytest -v --cov=app --cov-report=term-missing
 
   frontend-build:

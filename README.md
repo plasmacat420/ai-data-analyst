@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://python.org)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://react.dev)
-[![LangChain](https://img.shields.io/badge/LangChain-0.2-1C3C3C?logo=chainlink)](https://langchain.com)
+[![Grok](https://img.shields.io/badge/Grok-3-000000?logo=x&logoColor=white)](https://x.ai)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![CI](https://github.com/plasmacat420/ai-data-analyst/actions/workflows/ci.yml/badge.svg)](https://github.com/plasmacat420/ai-data-analyst/actions/workflows/ci.yml)
@@ -34,6 +34,7 @@ Most people have data but can't query it. This project gives everyone a data ana
 | **Multi-turn conversation** | Ask follow-up questions with full context from previous answers |
 | **SQL transparency** | Every generated query is shown with syntax highlighting so you can learn |
 | **SELECT-only safety** | INSERT / UPDATE / DROP / ALTER are rejected before execution — your data is never modified |
+| **Powered by Grok-3** | xAI's Grok-3 model via OpenAI-compatible API |
 | **REST API** | Fully usable without the frontend — great for integrations |
 | **CSV upload** | Drag-and-drop any CSV up to 10 MB |
 
@@ -82,7 +83,7 @@ git clone https://github.com/plasmacat420/ai-data-analyst
 cd ai-data-analyst
 
 cp backend/.env.example backend/.env
-# Edit backend/.env and set OPENAI_API_KEY=sk-...
+# Edit backend/.env and set XAI_API_KEY=sk-...
 
 docker compose up
 ```
@@ -95,7 +96,7 @@ Open **http://localhost:5173** — all 3 sample datasets load automatically.
 # Backend
 cd backend
 pip install -e ".[dev]"
-cp .env.example .env        # add your OPENAI_API_KEY
+cp .env.example .env        # add your XAI_API_KEY
 uvicorn app.main:app --reload --port 8000
 
 # Frontend (new terminal)
@@ -195,7 +196,7 @@ cd frontend && npm run build
 
 ## Deploy
 
-**Backend → Render.com** (free tier): uses `render.yaml` — set `OPENAI_API_KEY` in the dashboard.
+**Backend → Render.com** (free tier): uses `render.yaml` — set `XAI_API_KEY` in the dashboard.
 
 **Frontend → GitHub Pages**: push to `main` → GitHub Actions builds and deploys automatically. Set `VITE_API_URL` secret to your Render URL.
 

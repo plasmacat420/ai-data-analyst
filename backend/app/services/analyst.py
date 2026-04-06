@@ -73,18 +73,21 @@ async def run_analysis(
     schema = await get_schema_string(dataset_id)
     messages = build_prompt(schema, question, conversation_history)
 
-    client = AsyncOpenAI(api_key=settings.OPENAI_API_KEY)
+    client = AsyncOpenAI(
+        api_key=settings.XAI_API_KEY,
+        base_url="https://api.x.ai/v1",
+    )
 
     try:
         response = await client.chat.completions.create(
-            model="gpt-4o",
+            model="grok-3",
             messages=messages,
             temperature=0,
             max_tokens=1024,
             response_format={"type": "json_object"},
         )
     except Exception as e:
-        logger.error(f"OpenAI API error: {e}")
+        logger.error(f"xAI API error: {e}")
         elapsed = int((time.monotonic() - start) * 1000)
         return QueryResponse(
             question=question,
