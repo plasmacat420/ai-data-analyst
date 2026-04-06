@@ -87,7 +87,7 @@ async def run_analysis(
             response_format={"type": "json_object"},
         )
     except Exception as e:
-        logger.error(f"xAI API error: {e}")
+        logger.error(f"Groq API error: {e}")
         elapsed = int((time.monotonic() - start) * 1000)
         return QueryResponse(
             question=question,
