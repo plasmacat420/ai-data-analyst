@@ -6,7 +6,10 @@
       "Bash(mkdir -p /c/Users/faiz0/Downloads/codes/ai-data-analyst/backend/app/services)",
       "Bash(mkdir -p /c/Users/faiz0/Downloads/codes/ai-data-analyst/backend/tests)",
       "Bash(mkdir -p /c/Users/faiz0/Downloads/codes/ai-data-analyst/backend/sample_data)",
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m ':*)",
+      "Bash(git push:*)"
     ]
   }
 }

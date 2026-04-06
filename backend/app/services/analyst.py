@@ -74,13 +74,13 @@ async def run_analysis(
     messages = build_prompt(schema, question, conversation_history)
 
     client = AsyncOpenAI(
-        api_key=settings.XAI_API_KEY,
-        base_url="https://api.x.ai/v1",
+        api_key=settings.GROQ_API_KEY,
+        base_url="https://api.groq.com/openai/v1",
     )
 
     try:
         response = await client.chat.completions.create(
-            model="grok-3",
+            model="llama-3.3-70b-versatile",
             messages=messages,
             temperature=0,
             max_tokens=1024,
