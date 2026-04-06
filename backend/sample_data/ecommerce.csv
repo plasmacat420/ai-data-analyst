@@ -1,0 +1,301 @@
+order_id,customer_name,product,category,amount,status,order_date,city
+ORD-0001,William Jones,Blender,Home,111.18,pending,2024-04-17,Jacksonville
+ORD-0002,John Smith,Denim Jacket,Clothing,88.76,completed,2024-09-02,New York
+ORD-0003,John Jones,Protein Bar,Food,8.95,pending,2024-04-21,Jacksonville
+ORD-0004,Jennifer Taylor,Resistance Bands,Sports,32.15,completed,2024-12-07,Phoenix
+ORD-0005,Linda Williams,Green Tea,Food,6.49,completed,2024-12-17,Los Angeles
+ORD-0006,Michael Smith,Denim Jacket,Clothing,77.91,completed,2024-03-06,San Jose
+ORD-0007,John Smith,Compression Socks,Clothing,21.66,completed,2024-01-05,Philadelphia
+ORD-0008,Barbara Smith,Air Purifier,Home,285.12,refunded,2024-11-10,San Diego
+ORD-0009,Barbara Moore,Compression Socks,Clothing,11.82,completed,2024-09-08,Chicago
+ORD-0010,William Johnson,Air Purifier,Home,191.13,pending,2024-09-18,San Antonio
+ORD-0011,Mary Davis,Noise Cancelling Headphones,Electronics,320.85,completed,2024-06-12,Phoenix
+ORD-0012,Patricia Taylor,Resistance Bands,Sports,24.25,refunded,2024-11-01,Los Angeles
+ORD-0013,Jennifer Wilson,Noise Cancelling Headphones,Electronics,326.12,refunded,2024-10-08,New York
+ORD-0014,Jennifer Miller,Air Purifier,Home,287.9,pending,2024-05-18,Jacksonville
+ORD-0015,John Smith,Resistance Bands,Sports,34.66,completed,2024-09-26,Dallas
+ORD-0016,Linda Wilson,Laptop Stand,Electronics,53.16,completed,2024-06-17,Los Angeles
+ORD-0017,Mary Williams,Air Purifier,Home,198.35,completed,2024-11-03,Houston
+ORD-0018,Patricia Miller,USB-C Hub,Electronics,28.36,pending,2024-11-27,Los Angeles
+ORD-0019,Robert Smith,Yoga Mat,Sports,63.01,completed,2024-02-03,New York
+ORD-0020,Robert Brown,Resistance Bands,Sports,12.11,completed,2024-05-14,San Antonio
+ORD-0021,Linda Miller,Denim Jacket,Clothing,81.64,pending,2024-11-04,Dallas
+ORD-0022,James Taylor,USB-C Hub,Electronics,64.14,refunded,2024-01-23,Los Angeles
+ORD-0023,Jennifer Moore,USB-C Hub,Electronics,33.84,completed,2024-10-03,Phoenix
+ORD-0024,Linda Miller,Denim Jacket,Clothing,132.21,completed,2024-08-06,Dallas
+ORD-0025,Patricia Williams,Blender,Home,83.01,refunded,2024-05-21,Chicago
+ORD-0026,John Davis,Laptop Stand,Electronics,77.58,refunded,2024-03-04,New York
+ORD-0027,James Taylor,Protein Bar,Food,5.15,refunded,2024-02-10,Houston
+ORD-0028,Jennifer Jones,Denim Jacket,Clothing,140.56,refunded,2024-03-06,Chicago
+ORD-0029,Patricia Taylor,Running Shorts,Clothing,27.77,completed,2024-11-26,San Jose
+ORD-0030,James Moore,Yoga Mat,Sports,58.68,completed,2024-05-22,Los Angeles
+ORD-0031,John Johnson,Noise Cancelling Headphones,Electronics,281.4,pending,2024-06-12,Chicago
+ORD-0032,Patricia Johnson,Running Shorts,Clothing,44.78,completed,2024-06-16,San Diego
+ORD-0033,Jennifer Taylor,Green Tea,Food,11.11,refunded,2024-03-19,San Jose
+ORD-0034,Jennifer Davis,Denim Jacket,Clothing,66.86,completed,2024-04-26,Houston
+ORD-0035,Michael Brown,Compression Socks,Clothing,13.36,completed,2024-08-15,San Diego
+ORD-0036,Jennifer Brown,Yoga Mat,Sports,53.1,completed,2024-11-20,Los Angeles
+ORD-0037,John Williams,Resistance Bands,Sports,15.89,completed,2024-12-03,New York
+ORD-0038,William Smith,Protein Bar,Food,6.63,refunded,2024-04-02,Dallas
+ORD-0039,John Moore,Resistance Bands,Sports,24.16,completed,2024-06-13,Houston
+ORD-0040,Barbara Brown,Mechanical Keyboard,Electronics,125.06,refunded,2024-02-13,Philadelphia
+ORD-0041,William Smith,Green Tea,Food,9.78,refunded,2024-11-06,Dallas
+ORD-0042,Robert Wilson,Mechanical Keyboard,Electronics,85.08,refunded,2024-11-28,Chicago
+ORD-0043,Linda Davis,Laptop Stand,Electronics,45.79,pending,2024-04-03,Phoenix
+ORD-0044,Jennifer Jones,Laptop Stand,Electronics,88.52,refunded,2024-06-13,San Diego
+ORD-0045,Linda Smith,Laptop Stand,Electronics,118.16,completed,2024-02-23,Dallas
+ORD-0046,John Brown,Protein Bar,Food,6.35,completed,2024-07-21,San Antonio
+ORD-0047,Jennifer Taylor,Green Tea,Food,22.96,completed,2024-09-09,San Antonio
+ORD-0048,Patricia Moore,Denim Jacket,Clothing,85.29,completed,2024-08-26,San Diego
+ORD-0049,Barbara Smith,Resistance Bands,Sports,36.46,pending,2024-03-08,Los Angeles
+ORD-0050,William Brown,Noise Cancelling Headphones,Electronics,137.56,completed,2024-06-20,Jacksonville
+ORD-0051,Mary Jones,Denim Jacket,Clothing,131.12,completed,2024-08-22,San Diego
+ORD-0052,Linda Jones,Protein Bar,Food,3.29,pending,2024-01-08,New York
+ORD-0053,Robert Taylor,Protein Bar,Food,3.29,refunded,2024-01-19,Chicago
+ORD-0054,James Williams,Running Shorts,Clothing,56.9,refunded,2024-07-20,San Jose
+ORD-0055,James Brown,USB-C Hub,Electronics,29.08,refunded,2024-08-28,San Diego
+ORD-0056,Robert Jones,Denim Jacket,Clothing,110.08,refunded,2024-03-20,Austin
+ORD-0057,William Brown,Mechanical Keyboard,Electronics,161.39,completed,2024-08-20,San Jose
+ORD-0058,Mary Jones,Denim Jacket,Clothing,88.55,completed,2024-01-07,Dallas
+ORD-0059,William Miller,Mechanical Keyboard,Electronics,144.77,completed,2024-08-20,San Jose
+ORD-0060,James Moore,Resistance Bands,Sports,32.57,completed,2024-08-22,Chicago
+ORD-0061,Barbara Moore,Laptop Stand,Electronics,110.21,pending,2024-09-14,Philadelphia
+ORD-0062,James Moore,Denim Jacket,Clothing,72.95,pending,2024-07-12,San Jose
+ORD-0063,Barbara Johnson,Denim Jacket,Clothing,63.39,pending,2024-04-28,Los Angeles
+ORD-0064,John Taylor,Resistance Bands,Sports,22.26,completed,2024-01-23,Jacksonville
+ORD-0065,James Taylor,Resistance Bands,Sports,13.53,completed,2024-07-21,Houston
+ORD-0066,Jennifer Miller,Compression Socks,Clothing,12.66,pending,2024-11-19,Phoenix
+ORD-0067,John Moore,Denim Jacket,Clothing,106.47,refunded,2024-05-22,San Antonio
+ORD-0068,Patricia Miller,Resistance Bands,Sports,33.51,pending,2024-03-12,Dallas
+ORD-0069,William Wilson,Running Shorts,Clothing,59.54,refunded,2024-06-25,Jacksonville
+ORD-0070,Michael Williams,Green Tea,Food,7.38,completed,2024-08-26,Jacksonville
+ORD-0071,Robert Johnson,Noise Cancelling Headphones,Electronics,227.09,completed,2024-09-20,Jacksonville
+ORD-0072,James Williams,Denim Jacket,Clothing,146.46,completed,2024-02-27,Chicago
+ORD-0073,Linda Taylor,Denim Jacket,Clothing,58.81,completed,2024-04-12,Los Angeles
+ORD-0074,Barbara Smith,Blender,Home,82.28,pending,2024-10-21,Dallas
+ORD-0075,John Taylor,Laptop Stand,Electronics,114.84,completed,2024-11-16,San Diego
+ORD-0076,James Jones,Green Tea,Food,23.62,refunded,2024-05-07,New York
+ORD-0077,Barbara Moore,Resistance Bands,Sports,30.95,refunded,2024-03-22,New York
+ORD-0078,Jennifer Jones,Green Tea,Food,5.01,completed,2024-02-09,San Antonio
+ORD-0079,Jennifer Miller,Denim Jacket,Clothing,108.61,refunded,2024-01-24,Jacksonville
+ORD-0080,Mary Johnson,Resistance Bands,Sports,18.53,refunded,2024-10-12,Philadelphia
+ORD-0081,John Jones,Protein Bar,Food,9.7,pending,2024-07-19,New York
+ORD-0082,John Williams,Denim Jacket,Clothing,100.62,refunded,2024-02-17,Phoenix
+ORD-0083,Jennifer Johnson,Air Purifier,Home,192.92,completed,2024-09-27,San Jose
+ORD-0084,John Wilson,Denim Jacket,Clothing,106.32,completed,2024-06-25,San Diego
+ORD-0085,Linda Taylor,Laptop Stand,Electronics,70.79,completed,2024-02-13,Austin
+ORD-0086,Patricia Jones,Air Purifier,Home,149.46,completed,2024-09-18,New York
+ORD-0087,John Jones,Running Shorts,Clothing,23.72,completed,2024-02-18,Chicago
+ORD-0088,Linda Davis,Compression Socks,Clothing,15.46,refunded,2024-05-06,Jacksonville
+ORD-0089,Patricia Wilson,Blender,Home,61.96,completed,2024-05-07,Houston
+ORD-0090,Patricia Jones,Protein Bar,Food,4.85,completed,2024-02-03,Austin
+ORD-0091,Linda Taylor,Laptop Stand,Electronics,97.6,refunded,2024-01-28,San Diego
+ORD-0092,Jennifer Taylor,Compression Socks,Clothing,22.31,refunded,2024-05-16,Chicago
+ORD-0093,William Brown,Denim Jacket,Clothing,72.21,refunded,2024-03-02,Dallas
+ORD-0094,Michael Wilson,Resistance Bands,Sports,10.98,completed,2024-07-28,Austin
+ORD-0095,Robert Wilson,USB-C Hub,Electronics,60.39,pending,2024-06-23,New York
+ORD-0096,James Jones,Denim Jacket,Clothing,108.1,completed,2024-06-20,Phoenix
+ORD-0097,Robert Moore,Running Shorts,Clothing,29.49,pending,2024-10-11,Philadelphia
+ORD-0098,Robert Wilson,Denim Jacket,Clothing,71.05,completed,2024-06-28,San Antonio
+ORD-0099,John Wilson,Mechanical Keyboard,Electronics,140.0,refunded,2024-11-08,Los Angeles
+ORD-0100,John Jones,Resistance Bands,Sports,22.97,pending,2024-04-05,Jacksonville
+ORD-0101,Robert Wilson,Air Purifier,Home,82.14,pending,2024-08-05,Austin
+ORD-0102,William Moore,Blender,Home,74.73,pending,2024-05-09,Dallas
+ORD-0103,Barbara Smith,Denim Jacket,Clothing,59.9,completed,2024-01-07,Phoenix
+ORD-0104,Linda Johnson,Yoga Mat,Sports,64.68,completed,2024-06-12,Dallas
+ORD-0105,William Brown,Compression Socks,Clothing,10.5,completed,2024-06-28,Austin
+ORD-0106,Barbara Jones,Protein Bar,Food,6.61,refunded,2024-03-25,Phoenix
+ORD-0107,Jennifer Davis,Green Tea,Food,15.21,pending,2024-02-13,San Jose
+ORD-0108,John Wilson,Green Tea,Food,24.13,completed,2024-11-26,Philadelphia
+ORD-0109,Michael Taylor,Protein Bar,Food,5.24,completed,2024-02-06,Philadelphia
+ORD-0110,Patricia Davis,Compression Socks,Clothing,26.33,completed,2024-10-21,San Antonio
+ORD-0111,John Wilson,Air Purifier,Home,269.82,completed,2024-12-19,Dallas
+ORD-0112,Linda Miller,Mechanical Keyboard,Electronics,85.74,completed,2024-03-24,Houston
+ORD-0113,John Johnson,Noise Cancelling Headphones,Electronics,141.73,completed,2024-02-03,San Diego
+ORD-0114,William Smith,Laptop Stand,Electronics,98.24,refunded,2024-02-04,Phoenix
+ORD-0115,Barbara Williams,USB-C Hub,Electronics,57.56,pending,2024-05-08,Houston
+ORD-0116,John Wilson,Green Tea,Food,7.53,refunded,2024-03-01,New York
+ORD-0117,Jennifer Davis,Yoga Mat,Sports,48.03,refunded,2024-05-18,San Diego
+ORD-0118,Robert Moore,Mechanical Keyboard,Electronics,142.72,pending,2024-11-24,Austin
+ORD-0119,Barbara Miller,Resistance Bands,Sports,29.19,refunded,2024-05-12,San Diego
+ORD-0120,William Jones,Air Purifier,Home,99.7,completed,2024-06-14,Phoenix
+ORD-0121,Robert Brown,Laptop Stand,Electronics,25.01,completed,2024-06-10,San Diego
+ORD-0122,William Smith,Blender,Home,141.43,pending,2024-05-01,San Antonio
+ORD-0123,John Taylor,Noise Cancelling Headphones,Electronics,299.19,refunded,2024-06-07,San Antonio
+ORD-0124,William Miller,Denim Jacket,Clothing,74.99,pending,2024-07-08,Phoenix
+ORD-0125,Mary Miller,Green Tea,Food,9.79,refunded,2024-12-22,Phoenix
+ORD-0126,John Moore,Air Purifier,Home,139.14,completed,2024-02-06,Chicago
+ORD-0127,John Johnson,Green Tea,Food,14.11,pending,2024-05-23,San Jose
+ORD-0128,Linda Jones,Compression Socks,Clothing,10.48,completed,2024-09-01,Chicago
+ORD-0129,Mary Brown,Running Shorts,Clothing,25.0,pending,2024-12-01,Houston
+ORD-0130,Mary Williams,Laptop Stand,Electronics,71.89,completed,2024-07-10,San Diego
+ORD-0131,Jennifer Wilson,Blender,Home,127.06,completed,2024-02-27,Chicago
+ORD-0132,James Brown,Air Purifier,Home,166.33,refunded,2024-08-06,Houston
+ORD-0133,John Miller,Laptop Stand,Electronics,36.59,completed,2024-07-25,San Diego
+ORD-0134,Patricia Smith,Noise Cancelling Headphones,Electronics,215.21,completed,2024-09-22,Houston
+ORD-0135,Linda Miller,Green Tea,Food,24.22,completed,2024-03-21,Jacksonville
+ORD-0136,James Moore,Resistance Bands,Sports,13.66,pending,2024-11-10,Houston
+ORD-0137,Jennifer Smith,Green Tea,Food,9.36,completed,2024-04-21,San Antonio
+ORD-0138,Jennifer Smith,Mechanical Keyboard,Electronics,171.21,refunded,2024-02-13,Houston
+ORD-0139,James Smith,Protein Bar,Food,8.27,pending,2024-12-20,Chicago
+ORD-0140,Jennifer Johnson,Noise Cancelling Headphones,Electronics,139.42,completed,2024-11-20,Philadelphia
+ORD-0141,James Smith,Compression Socks,Clothing,26.11,refunded,2024-02-05,San Diego
+ORD-0142,Patricia Davis,Resistance Bands,Sports,33.66,completed,2024-08-24,Houston
+ORD-0143,James Miller,Compression Socks,Clothing,28.11,completed,2024-01-16,Jacksonville
+ORD-0144,Linda Moore,Running Shorts,Clothing,41.71,pending,2024-04-19,Chicago
+ORD-0145,William Davis,Compression Socks,Clothing,28.31,completed,2024-10-28,Dallas
+ORD-0146,Robert Johnson,Resistance Bands,Sports,14.65,completed,2024-05-18,Philadelphia
+ORD-0147,Linda Smith,Air Purifier,Home,220.37,pending,2024-12-06,New York
+ORD-0148,Barbara Davis,Air Purifier,Home,216.44,completed,2024-12-03,Austin
+ORD-0149,William Miller,Noise Cancelling Headphones,Electronics,231.02,pending,2024-09-05,San Jose
+ORD-0150,John Davis,Denim Jacket,Clothing,114.09,completed,2024-02-17,Austin
+ORD-0151,Mary Smith,Mechanical Keyboard,Electronics,85.01,completed,2024-04-04,San Diego
+ORD-0152,Patricia Johnson,Laptop Stand,Electronics,79.25,pending,2024-11-16,Dallas
+ORD-0153,Barbara Taylor,Running Shorts,Clothing,21.96,completed,2024-10-23,Los Angeles
+ORD-0154,James Jones,Green Tea,Food,14.83,completed,2024-08-26,Austin
+ORD-0155,James Davis,Resistance Bands,Sports,32.3,pending,2024-06-26,Jacksonville
+ORD-0156,James Taylor,Running Shorts,Clothing,41.16,completed,2024-05-03,Houston
+ORD-0157,William Johnson,USB-C Hub,Electronics,62.14,refunded,2024-07-07,Houston
+ORD-0158,William Jones,Protein Bar,Food,7.0,completed,2024-09-24,Dallas
+ORD-0159,Michael Johnson,Air Purifier,Home,220.5,completed,2024-11-15,Jacksonville
+ORD-0160,Michael Johnson,Mechanical Keyboard,Electronics,170.94,refunded,2024-07-17,Philadelphia
+ORD-0161,Robert Moore,Protein Bar,Food,5.54,completed,2024-06-18,Philadelphia
+ORD-0162,Jennifer Miller,Air Purifier,Home,219.31,completed,2024-10-08,San Jose
+ORD-0163,William Jones,Denim Jacket,Clothing,126.57,completed,2024-06-15,San Diego
+ORD-0164,Michael Smith,Blender,Home,43.81,completed,2024-10-01,Dallas
+ORD-0165,Robert Brown,Laptop Stand,Electronics,53.53,completed,2024-04-28,Philadelphia
+ORD-0166,James Brown,Resistance Bands,Sports,25.34,refunded,2024-10-05,Los Angeles
+ORD-0167,James Wilson,Compression Socks,Clothing,13.9,completed,2024-06-19,Houston
+ORD-0168,Patricia Brown,Air Purifier,Home,146.07,refunded,2024-07-19,Houston
+ORD-0169,Mary Davis,Air Purifier,Home,186.16,pending,2024-12-23,San Jose
+ORD-0170,Mary Taylor,Green Tea,Food,11.01,refunded,2024-07-03,New York
+ORD-0171,Jennifer Davis,Denim Jacket,Clothing,91.65,completed,2024-04-24,Austin
+ORD-0172,Barbara Smith,Green Tea,Food,20.55,pending,2024-01-10,Dallas
+ORD-0173,James Davis,Resistance Bands,Sports,26.95,completed,2024-09-23,Houston
+ORD-0174,Robert Smith,Green Tea,Food,19.63,pending,2024-08-25,San Jose
+ORD-0175,Barbara Moore,USB-C Hub,Electronics,29.44,completed,2024-07-05,Chicago
+ORD-0176,Jennifer Johnson,Yoga Mat,Sports,54.29,completed,2024-09-13,Phoenix
+ORD-0177,Mary Miller,Resistance Bands,Sports,23.03,completed,2024-03-16,Dallas
+ORD-0178,Patricia Wilson,Denim Jacket,Clothing,115.22,completed,2024-09-20,Jacksonville
+ORD-0179,William Jones,Noise Cancelling Headphones,Electronics,117.91,pending,2024-06-22,San Jose
+ORD-0180,Mary Johnson,Green Tea,Food,13.27,completed,2024-06-07,Philadelphia
+ORD-0181,Jennifer Taylor,Green Tea,Food,5.48,completed,2024-03-12,San Jose
+ORD-0182,Linda Taylor,Mechanical Keyboard,Electronics,121.66,completed,2024-04-22,Philadelphia
+ORD-0183,Robert Johnson,USB-C Hub,Electronics,63.07,completed,2024-10-05,Phoenix
+ORD-0184,James Davis,Blender,Home,128.47,completed,2024-08-16,New York
+ORD-0185,Jennifer Jones,Blender,Home,99.18,completed,2024-09-17,Phoenix
+ORD-0186,William Wilson,Protein Bar,Food,7.84,completed,2024-12-23,Austin
+ORD-0187,James Miller,Protein Bar,Food,9.25,refunded,2024-01-09,Chicago
+ORD-0188,James Brown,Noise Cancelling Headphones,Electronics,297.3,refunded,2024-05-02,San Diego
+ORD-0189,James Johnson,Denim Jacket,Clothing,116.04,completed,2024-02-01,Phoenix
+ORD-0190,Michael Jones,Denim Jacket,Clothing,100.85,completed,2024-06-16,San Jose
+ORD-0191,William Johnson,Mechanical Keyboard,Electronics,87.84,pending,2024-09-23,New York
+ORD-0192,James Jones,Resistance Bands,Sports,19.15,pending,2024-07-24,Chicago
+ORD-0193,James Davis,Green Tea,Food,12.04,completed,2024-04-17,Phoenix
+ORD-0194,James Brown,Denim Jacket,Clothing,139.04,completed,2024-09-09,Houston
+ORD-0195,Robert Davis,Denim Jacket,Clothing,115.69,completed,2024-12-13,Dallas
+ORD-0196,Barbara Jones,Denim Jacket,Clothing,74.04,completed,2024-07-10,San Jose
+ORD-0197,Jennifer Wilson,Resistance Bands,Sports,13.95,completed,2024-10-18,Austin
+ORD-0198,Patricia Williams,Running Shorts,Clothing,47.54,refunded,2024-03-14,Chicago
+ORD-0199,Barbara Williams,Compression Socks,Clothing,11.7,refunded,2024-12-04,Chicago
+ORD-0200,Jennifer Williams,Blender,Home,43.24,completed,2024-07-14,Phoenix
+ORD-0201,Linda Brown,Mechanical Keyboard,Electronics,169.08,completed,2024-03-06,New York
+ORD-0202,Barbara Taylor,Running Shorts,Clothing,44.22,refunded,2024-04-20,Houston
+ORD-0203,Patricia Smith,Compression Socks,Clothing,11.99,pending,2024-03-17,San Jose
+ORD-0204,Linda Davis,Mechanical Keyboard,Electronics,179.3,pending,2024-08-05,Chicago
+ORD-0205,Patricia Jones,Laptop Stand,Electronics,63.82,completed,2024-05-14,Houston
+ORD-0206,Patricia Jones,USB-C Hub,Electronics,26.51,pending,2024-10-16,Jacksonville
+ORD-0207,Jennifer Wilson,Noise Cancelling Headphones,Electronics,206.89,completed,2024-10-24,San Antonio
+ORD-0208,Jennifer Miller,Protein Bar,Food,9.51,refunded,2024-10-18,Dallas
+ORD-0209,James Moore,USB-C Hub,Electronics,44.35,completed,2024-04-17,Dallas
+ORD-0210,Michael Smith,Resistance Bands,Sports,21.62,completed,2024-04-10,San Diego
+ORD-0211,Michael Brown,Air Purifier,Home,262.08,pending,2024-03-14,Phoenix
+ORD-0212,Barbara Smith,Blender,Home,96.87,completed,2024-08-27,Austin
+ORD-0213,Linda Johnson,Blender,Home,95.07,completed,2024-10-23,Dallas
+ORD-0214,Robert Miller,Denim Jacket,Clothing,82.35,completed,2024-03-15,San Jose
+ORD-0215,Patricia Wilson,USB-C Hub,Electronics,31.26,completed,2024-12-24,Los Angeles
+ORD-0216,Mary Johnson,Blender,Home,89.43,completed,2024-02-17,Jacksonville
+ORD-0217,Michael Moore,Protein Bar,Food,9.6,pending,2024-09-13,New York
+ORD-0218,Robert Davis,Protein Bar,Food,8.97,completed,2024-03-28,Chicago
+ORD-0219,Robert Smith,Denim Jacket,Clothing,80.81,pending,2024-05-21,Chicago
+ORD-0220,Mary Williams,Noise Cancelling Headphones,Electronics,100.88,completed,2024-01-15,San Diego
+ORD-0221,Linda Moore,Air Purifier,Home,81.27,pending,2024-04-07,San Jose
+ORD-0222,Linda Wilson,Denim Jacket,Clothing,94.19,refunded,2024-10-01,Houston
+ORD-0223,William Brown,Protein Bar,Food,7.03,completed,2024-01-06,Chicago
+ORD-0224,James Davis,Laptop Stand,Electronics,38.81,completed,2024-11-19,San Jose
+ORD-0225,John Davis,USB-C Hub,Electronics,18.19,pending,2024-03-06,Austin
+ORD-0226,John Taylor,Green Tea,Food,18.83,refunded,2024-10-26,Dallas
+ORD-0227,Robert Wilson,Blender,Home,103.69,completed,2024-02-25,Phoenix
+ORD-0228,Jennifer Davis,Denim Jacket,Clothing,132.03,pending,2024-09-03,Phoenix
+ORD-0229,Linda Williams,USB-C Hub,Electronics,60.15,completed,2024-06-17,San Antonio
+ORD-0230,William Jones,Blender,Home,63.0,completed,2024-02-19,Jacksonville
+ORD-0231,William Johnson,Yoga Mat,Sports,63.44,refunded,2024-12-10,San Antonio
+ORD-0232,Barbara Davis,Running Shorts,Clothing,41.02,refunded,2024-06-05,San Jose
+ORD-0233,Barbara Wilson,Resistance Bands,Sports,31.88,pending,2024-08-26,Chicago
+ORD-0234,Barbara Jones,Blender,Home,71.95,completed,2024-01-04,New York
+ORD-0235,Linda Johnson,Blender,Home,133.29,refunded,2024-07-14,New York
+ORD-0236,Jennifer Davis,Resistance Bands,Sports,34.18,completed,2024-01-21,Houston
+ORD-0237,John Brown,Air Purifier,Home,94.92,completed,2024-09-18,Philadelphia
+ORD-0238,James Johnson,Green Tea,Food,11.67,pending,2024-12-19,San Jose
+ORD-0239,James Williams,Noise Cancelling Headphones,Electronics,182.63,completed,2024-11-16,San Diego
+ORD-0240,James Williams,Yoga Mat,Sports,29.32,pending,2024-09-11,San Diego
+ORD-0241,Michael Smith,Resistance Bands,Sports,18.98,completed,2024-09-18,New York
+ORD-0242,Patricia Taylor,Green Tea,Food,11.63,completed,2024-02-05,Phoenix
+ORD-0243,James Davis,Denim Jacket,Clothing,112.65,completed,2024-10-20,San Antonio
+ORD-0244,Robert Taylor,USB-C Hub,Electronics,71.2,completed,2024-12-28,Philadelphia
+ORD-0245,James Brown,Denim Jacket,Clothing,58.68,completed,2024-06-15,Phoenix
+ORD-0246,Patricia Moore,Running Shorts,Clothing,27.0,completed,2024-01-25,Houston
+ORD-0247,Mary Wilson,Resistance Bands,Sports,10.75,pending,2024-09-05,Houston
+ORD-0248,Jennifer Wilson,Blender,Home,136.13,completed,2024-06-05,Los Angeles
+ORD-0249,William Williams,Noise Cancelling Headphones,Electronics,281.14,pending,2024-07-23,Dallas
+ORD-0250,Mary Smith,Running Shorts,Clothing,57.29,refunded,2024-02-11,San Diego
+ORD-0251,James Johnson,Resistance Bands,Sports,32.99,completed,2024-01-19,Phoenix
+ORD-0252,Patricia Davis,Noise Cancelling Headphones,Electronics,148.14,completed,2024-09-11,San Diego
+ORD-0253,Mary Brown,Mechanical Keyboard,Electronics,82.05,completed,2024-01-20,Dallas
+ORD-0254,William Johnson,Noise Cancelling Headphones,Electronics,235.63,refunded,2024-06-09,Chicago
+ORD-0255,John Taylor,Noise Cancelling Headphones,Electronics,142.82,completed,2024-10-11,Dallas
+ORD-0256,Linda Smith,Mechanical Keyboard,Electronics,64.06,completed,2024-02-13,New York
+ORD-0257,Mary Miller,Denim Jacket,Clothing,67.9,refunded,2024-10-21,Jacksonville
+ORD-0258,Linda Taylor,Compression Socks,Clothing,17.81,completed,2024-12-25,Austin
+ORD-0259,William Johnson,Air Purifier,Home,248.17,refunded,2024-03-03,Jacksonville
+ORD-0260,Linda Johnson,Yoga Mat,Sports,38.62,pending,2024-08-08,Houston
+ORD-0261,Robert Taylor,Running Shorts,Clothing,56.51,pending,2024-03-23,Austin
+ORD-0262,Jennifer Davis,Yoga Mat,Sports,49.25,completed,2024-08-04,Philadelphia
+ORD-0263,Linda Wilson,Mechanical Keyboard,Electronics,99.52,completed,2024-10-19,Chicago
+ORD-0264,William Johnson,Denim Jacket,Clothing,131.76,completed,2024-06-18,Austin
+ORD-0265,Mary Brown,Resistance Bands,Sports,23.83,refunded,2024-07-08,San Jose
+ORD-0266,Patricia Moore,Mechanical Keyboard,Electronics,196.34,pending,2024-02-11,Houston
+ORD-0267,Barbara Miller,Air Purifier,Home,295.65,refunded,2024-06-18,Jacksonville
+ORD-0268,Patricia Williams,Green Tea,Food,18.39,refunded,2024-08-04,San Jose
+ORD-0269,Barbara Wilson,Compression Socks,Clothing,23.88,pending,2024-03-10,San Antonio
+ORD-0270,Mary Taylor,USB-C Hub,Electronics,59.56,refunded,2024-07-11,San Diego
+ORD-0271,James Johnson,Noise Cancelling Headphones,Electronics,304.26,refunded,2024-11-26,New York
+ORD-0272,Robert Williams,Yoga Mat,Sports,51.88,pending,2024-10-19,San Diego
+ORD-0273,Patricia Jones,Green Tea,Food,22.55,completed,2024-10-26,Austin
+ORD-0274,John Miller,Blender,Home,148.08,completed,2024-02-19,New York
+ORD-0275,Barbara Moore,Denim Jacket,Clothing,134.76,completed,2024-01-12,Dallas
+ORD-0276,James Smith,Blender,Home,101.6,completed,2024-02-28,Phoenix
+ORD-0277,James Jones,Denim Jacket,Clothing,120.22,pending,2024-11-11,Jacksonville
+ORD-0278,Michael Miller,Denim Jacket,Clothing,93.52,completed,2024-11-06,San Diego
+ORD-0279,Robert Jones,Resistance Bands,Sports,21.54,completed,2024-07-05,Phoenix
+ORD-0280,Robert Williams,Laptop Stand,Electronics,31.82,completed,2024-03-24,San Diego
+ORD-0281,Michael Williams,USB-C Hub,Electronics,23.92,pending,2024-08-26,Jacksonville
+ORD-0282,Barbara Miller,Protein Bar,Food,3.44,refunded,2024-07-18,San Diego
+ORD-0283,Michael Davis,Noise Cancelling Headphones,Electronics,146.45,refunded,2024-01-19,San Diego
+ORD-0284,Patricia Moore,Running Shorts,Clothing,36.43,refunded,2024-10-12,New York
+ORD-0285,James Taylor,Yoga Mat,Sports,62.29,completed,2024-10-16,Jacksonville
+ORD-0286,Mary Williams,Blender,Home,120.44,completed,2024-08-17,Los Angeles
+ORD-0287,William Taylor,USB-C Hub,Electronics,30.94,completed,2024-11-21,Dallas
+ORD-0288,Barbara Brown,Protein Bar,Food,2.42,completed,2024-09-25,New York
+ORD-0289,Linda Wilson,Resistance Bands,Sports,37.18,refunded,2024-12-11,San Antonio
+ORD-0290,Jennifer Brown,Running Shorts,Clothing,26.7,refunded,2024-12-10,Jacksonville
+ORD-0291,Barbara Brown,Laptop Stand,Electronics,84.78,refunded,2024-03-19,New York
+ORD-0292,John Taylor,Laptop Stand,Electronics,52.25,completed,2024-03-17,Los Angeles
+ORD-0293,John Brown,Mechanical Keyboard,Electronics,146.21,completed,2024-05-01,Jacksonville
+ORD-0294,Mary Taylor,Mechanical Keyboard,Electronics,187.42,completed,2024-11-15,Philadelphia
+ORD-0295,Robert Brown,Air Purifier,Home,234.17,pending,2024-03-26,Dallas
+ORD-0296,James Davis,USB-C Hub,Electronics,77.88,refunded,2024-03-27,San Diego
+ORD-0297,Michael Miller,Noise Cancelling Headphones,Electronics,265.17,completed,2024-04-19,Jacksonville
+ORD-0298,Jennifer Smith,Green Tea,Food,10.29,completed,2024-01-06,San Diego
+ORD-0299,Michael Wilson,Running Shorts,Clothing,39.05,refunded,2024-04-13,Austin
+ORD-0300,Michael Wilson,Running Shorts,Clothing,25.81,pending,2024-01-10,San Diego

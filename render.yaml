@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: ai-data-analyst-api
+    runtime: python
+    rootDir: backend
+    buildCommand: pip install -e "."
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: CORS_ORIGINS
+        value: '["https://plasmacat420.github.io"]'
+    healthCheckPath: /health
