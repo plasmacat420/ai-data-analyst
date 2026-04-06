@@ -85,7 +85,7 @@ jobs:
       - name: Build
         working-directory: frontend
         env:
-          VITE_API_URL: https://ai-data-analyst.onrender.com
+          VITE_API_URL: https://ai-data-analyst-yg3z.onrender.com
         run: npm run build
 
       - name: Verify build output
