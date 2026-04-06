@@ -1,10 +1,8 @@
 services:
   - type: web
-    name: ai-data-analyst-api
-    runtime: python
-    rootDir: backend
-    buildCommand: pip install -e "."
-    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    name: ai-data-analyst
+    runtime: docker
+    dockerfilePath: ./Dockerfile
     envVars:
       - key: XAI_API_KEY
         sync: false
